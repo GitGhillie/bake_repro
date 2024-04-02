@@ -1,0 +1,8 @@
+[package]
+name = "baked"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.1"
+bevy-inspector-egui = "0.23"
